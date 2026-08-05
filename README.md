@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: Pragatheeshraaj D
-<h3>Register Number: 212224230199
+<h3>Name: Bakkiyalakshmi E
+<h3>Register Number: 212223220012
 
 
 <h3>AIM:</h3>
